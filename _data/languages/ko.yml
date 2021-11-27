@@ -60,8 +60,8 @@ counter:
 
   archive_posts:
     zero: 포스트 없음
-    one: 1개의 포스트
-    other: "총 %d개의 포스트"
+    one: 1개의 포스트.
+    other: "총 %d개의 포스트."
 
 state:
   posts: 포스트
