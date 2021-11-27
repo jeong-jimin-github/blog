@@ -16,13 +16,9 @@ tags:
 
 ## 바로 가기
 
-직접 해보기 :
-
-https://kanji.jeong-jimin.com/
- 
-소스코드 :
-
-https://github.com/jeong-jimin-github/kanji-test
+[직접 해보기](https://kanji.jeong-jimin.com/)
+<br>
+[소스코드](https://github.com/jeong-jimin-github/kanji-test)
 
 ## 실제 사이트 이미지
 
