@@ -22,7 +22,7 @@ https://kanji.jeong-jimin.com/
  
 소스코드 :
 
-https://github.com/progrm-github/kanji-test
+https://github.com/jeong-jimin-github/kanji-test
 
 ## 실제 사이트 이미지
 
