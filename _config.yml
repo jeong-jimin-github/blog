@@ -436,7 +436,7 @@ gitalk:
   enable: true
   clientID: e3f75866b8fc53f3acfa
   clientSecret: 215d4bf6571fa54bd8bd0e9d87fbbc6a65bf4bc9
-  repo: progrm-github.github.io
+  repo: progrm-github.github.io.progrm-github.github.io
   owner: progrm-github
   admin: progrm-github
 
