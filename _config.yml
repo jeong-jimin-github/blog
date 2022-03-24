@@ -378,7 +378,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: blogjm-1
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -433,12 +433,12 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  enable: true
+  clientID: e3f75866b8fc53f3acfa
+  clientSecret: 215d4bf6571fa54bd8bd0e9d87fbbc6a65bf4bc9
+  repo: progrm-github.github.io
+  owner: progrm-github
+  admin: progrm-github
 
 # Baidu Share
 # Available value:
