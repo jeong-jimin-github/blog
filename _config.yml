@@ -387,7 +387,7 @@ disqus:
 
 # <wildfire>
 wildfire:
-  enable: false
+  enable: true
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
   useDev: true
@@ -395,12 +395,12 @@ wildfire:
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
-    apiKey: 
-    authDomain:
-    databaseURL:
-    projectId:
-    storageBucket:
-    messagingSenderId:
+    apiKey: AIzaSyBcx7DwiJJLmxdY97nuU7OEZPz5wY5BEf8
+    authDomain: kkutujm.firebaseapp.com
+    databaseURL: https://kkutujm-default-rtdb.firebaseio.com/
+    projectId: kkutujm
+    storageBucket: kkutujm.appspot.com
+    messagingSenderId: 236862517546
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
@@ -433,7 +433,7 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: true
+  enable: false
   clientID: 8676037a353b10c1f86d
   clientSecret: 5b42703dfc473593b9589ff17dcffac3480c4747
   repo: co
