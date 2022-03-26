@@ -22,4 +22,4 @@ tags:
 
 ## 실제 사이트 이미지
 
-![img](https://blog.kakaocdn.net/dn/xkHBz/btq7oH0DUGS/X5AVbt9o1kcImK6Tl72kP0/img.png)
+![image](https://user-images.githubusercontent.com/95138574/160238283-3d20c44e-38a8-448e-9458-d00b442adf8f.png)
